@@ -19,3 +19,9 @@ Verkefni í TÆKTÖ05BU
 	stöðurafmagni og hleypa því svo öllu frá sér við snertingu, ef þetta stöðurafmagn
 	kemst í tölvubúnað eyðileggst hann. Til að koma í veg fyrir þetta, getum við notað
 	sérstök armbönd sem afhlaða okkur á meðan við meðhöndlum tölvubúnað.
+
+5. Hvað þarf að hafa í huga við val á spennugjöfum?
+	Spennugjafinn þarf að vera af sömu gerð og turninn og móðurborðið og að hann 
+	styðji örgjörvann sem þú ert búinn að velja eða átt eftir að velja.
+
+
