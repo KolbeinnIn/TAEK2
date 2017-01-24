@@ -1,4 +1,4 @@
-# TAEK2
+       
 Verkefni í TÆKTÖ05BU
 
 1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er.
@@ -24,4 +24,10 @@ Verkefni í TÆKTÖ05BU
 	Spennugjafinn þarf að vera af sömu gerð og turninn og móðurborðið og að hann 
 	styðji örgjörvann sem þú ert búinn að velja eða átt eftir að velja.
 
-
+6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+	1. Greina vandamálið.
+	2. Setja fram tilgátu um líklega orsök.
+	3. Prufa tilgátu til að greina orsök.
+	4. Búa til áætlun um aðgerðir til að leysa vandann.
+	5. Staðfesta fulla kerfisvirkni og ef á við, bæta inn fyrirbyggjandi viðhald.
+	6. Skrá niðurstöður, framkvæmdir og útkomur.
