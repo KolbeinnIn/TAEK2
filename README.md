@@ -12,3 +12,10 @@ Verkefni í TÆKTÖ05BU
 3. Hvað er fyrirbyggjandi viðhald?
 	Fyrirbyggjandi viðhald er regluleg skoðun og hreinsun á tölvu, einnig er skipt um
 	hluti og kerfi sem er orðið úrelt.
+
+4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að
+   verjast því þegar unnið er með tölvubúnað?
+	ESD stendur fyrir "Electrostatic Discharge", það er þegar hlutir eru hlaðnir
+	stöðurafmagni og hleypa því svo öllu frá sér við snertingu, ef þetta stöðurafmagn
+	kemst í tölvubúnað eyðileggst hann. Til að koma í veg fyrir þetta, getum við notað
+	sérstök armbönd sem afhlaða okkur á meðan við meðhöndlum tölvubúnað.
