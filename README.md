@@ -47,14 +47,14 @@ Verkefni í TÆKTÖ05BU
 	Mús, lyklaborð og vefmyndavél.
 
 10. Setja saman tölvu fyrir minna en 250 þúsund krónur.
-	Móðurborð: Asus Z170 PRO Gaming 1151 ATX				34.995 kr
-	Kassi: Corsair Obsidian 450 D svartur m/glugga, heldur móðurborðum, ATX, Mini ITX, Micro ATX
+	1. Móðurborð: Asus Z170 PRO Gaming 1151 ATX				34.995 kr
+	2. Kassi: Corsair Obsidian 450 D svartur, heldur móðurborðum, ATX, Mini ITX, Micro ATX
 	og E-ATX.								29.990
-	Aflgjafi: Corsair CX 750W ATX Modular aflgjafi, 80 + Brons builder.	21.995 kr
-	Örgjörvi: Intel Core i5-7600 3.5GHz S1151 14nm 6MB			39.995 kr
-	Vinnsluminni: Corsair 8GB DDR4 2x4GB 3200MHz svört Vengeance CL16.	13.995 kr
-	Skjákort: Asus STRIX GTX 1070 8GB  					89.995 kr
-	Aukavifta: Corsair SP120						3.995  kr
-	Harður diskur: Seagate 1TB SSHD 3,5" SATA3 7200RPM 8GB 64MB 		14.990 kr
+	2. Aflgjafi: Corsair CX 750W ATX Modular aflgjafi, 80 + Brons builder.	21.995 kr
+	3. Örgjörvi: Intel Core i5-7600 3.5GHz S1151 14nm 6MB			39.995 kr
+	4. Vinnsluminni: Corsair 8GB DDR4 2x4GB 3200MHz svört Vengeance CL16.	13.995 kr
+	5. Skjákort: Asus STRIX GTX 1070 8GB  					89.995 kr
+	6. Aukavifta: Corsair SP120						3.995  kr
+	7. Harður diskur: Seagate 1TB SSHD 3,5" SATA3 7200RPM 8GB 64MB 		14.990 kr
 
 	Samtals:								235.879 kr
