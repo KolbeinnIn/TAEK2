@@ -31,3 +31,11 @@ Verkefni í TÆKTÖ05BU
 	4. Búa til áætlun um aðgerðir til að leysa vandann.
 	5. Staðfesta fulla kerfisvirkni og ef á við, bæta inn fyrirbyggjandi viðhald.
 	6. Skrá niðurstöður, framkvæmdir og útkomur.
+
+7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? 
+	Opin spurning gerir svarandanum kleift að svara spurningunni með sínum eigin orðum
+	t.d. ef hann er með tölvu vandamál og þú spyrð hann "Hvert er vandamálið?", þá lýsir hann
+	hvert vandamálið er.
+
+	Lokuð spurning er já eða nei spurning.
+
