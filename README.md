@@ -39,3 +39,7 @@ Verkefni í TÆKTÖ05BU
 
 	Lokuð spurning er já eða nei spurning.
 
+8. Hvað er jaðartæki?
+	Jaðratæki er tæki sem tengt er við tölvu og hún stýrir, t.d. prentari, diskadrif,
+	vefmyndavélar og mótald.
+
