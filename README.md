@@ -43,8 +43,10 @@ Verkefni í TÆKTÖ05BU
 	Jaðratæki er tæki sem tengt er við tölvu og hún stýrir, t.d. prentari, diskadrif,
 	vefmyndavélar og mótald.
 
-9. Nefndu þrjú dæmi um inntakstæki.
-	Mús, lyklaborð og vefmyndavél.
+9. Nefndu þrjú dæmi um inntakstæki:
+	1. Mús
+	2. lyklaborð
+	3. Vefmyndavél.
 
 10. Setja saman tölvu fyrir minna en 250 þúsund krónur.
 	1. Móðurborð: Asus Z170 PRO Gaming 1151 ATX				34.995 kr
