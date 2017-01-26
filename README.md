@@ -43,3 +43,7 @@ Verkefni í TÆKTÖ05BU
 	Jaðratæki er tæki sem tengt er við tölvu og hún stýrir, t.d. prentari, diskadrif,
 	vefmyndavélar og mótald.
 
+9. Nefndu þrjú dæmi um inntakstæki.
+	Mús, lyklaborð og vefmyndavél.
+
+
